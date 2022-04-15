@@ -18,6 +18,6 @@ Estoy haciendo cursos de Angular, aún no he llegado a temas de Directivas, pero
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 
-No recomiendo usarlo tal cual ya que para tamaños de pantalla reducidos podría darse el caso que no cupiera en pantalla y en ese caso no funciona el scrollIntoView
+No recomiendo usarlo tal cual ya que para tamaños de pantalla reducidos podría darse el caso que no cupiera en pantalla y en ese caso no funciona el scrollIntoView. Al menos necesita un elemento al completo dentro de la caja
 
 <a href="https://codesandbox.io/s/inspiring-maxwell-hoybwv?file=/src/app/directives/scroll-to.directive.ts" target="_blank" rel="noopener">Codesandbox</a>
