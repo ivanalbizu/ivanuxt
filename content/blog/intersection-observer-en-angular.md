@@ -20,4 +20,6 @@ Estoy haciendo cursos de Angular, aún no he llegado a temas de Directivas, pero
 
 No recomiendo usarlo tal cual ya que para tamaños de pantalla reducidos podría darse el caso que no cupiera en pantalla y en ese caso no funciona el scrollIntoView. Al menos necesita un elemento al completo dentro de la caja
 
-<a href="https://codesandbox.io/s/inspiring-maxwell-hoybwv?file=/src/app/directives/scroll-to.directive.ts" target="_blank" rel="noopener">Codesandbox</a>
+<a href="https://github.com/ivanalbizu/angular-directive-scrollintoview" target="_blank" rel="noopener">Código en GitHub</a>
+
+<a href="https://codesandbox.io/s/inspiring-maxwell-hoybwv?file=/src/app/directives/scroll-to.directive.ts" target="_blank" rel="noopener">Ejemplo en Codesandbox</a>
