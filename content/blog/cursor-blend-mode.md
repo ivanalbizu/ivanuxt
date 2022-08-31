@@ -6,7 +6,7 @@ tags:
   - javascript
   - css
 ctime: '2022-08-31 22:10:00'
-cover_image: cursor-blend-mode.png
+cover_image: cursor-blend-mode.jpg
 alt_image: Cursor Blend Mode
 ---
 
