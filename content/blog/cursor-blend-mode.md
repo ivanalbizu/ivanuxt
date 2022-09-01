@@ -1,6 +1,6 @@
 ---
 title: Cursor Blend Mode
-description: Animación de cursor en eventos mousemove aplicando blend-mode a imágenes y elementos html
+description: Animación de cursor en evento mousemove aplicando blend-mode a imágenes y elementos html
 published: true
 tags:
   - javascript
@@ -10,7 +10,7 @@ cover_image: cursor-blend-mode.jpg
 alt_image: Cursor Blend Mode
 ---
 
-Uso de propiedades CSS para cambiar el blend-mode. La idea es jugar un poco con estas propiedades. En la que se cambie visualización de imagen y de cursor
+La idea es jugar un poco con el cambio de propiedades blend-mode en la que se cambie visualización de imagen y de cursor. Blend-mode fusiona colores e imágenes de elementos
 
 <ul class="list-bullets">
   <li>Para imágenes con <code>background-blend-mode</code></li>
@@ -42,7 +42,7 @@ const blendModes = [
 
 Y elementos <code>&lt;span&gt;</code> con definición de color de fondo y blend-mode para que "fusione". Se mezcla además con la imagen de fondo ya que queda por encima de la imagen
 
-Los elementos <code>&lt;span&gt;</code> son creados (y eliminados pasado un tiempo) cuando se produce el evento <code>mousemove</code> para dar esa sensación de "persecución" del ratón. Podría ajustarse este evento y aplicarlo son para desktop y crear otra versión para "touchables"
+Los elementos <code>&lt;span&gt;</code> son creados (y eliminados pasado un tiempo) cuando se produce el evento <code>mousemove</code> para dar esa sensación de "persecución" del ratón. Podría ajustarse este evento y aplicarlo para desktop y crear otra versión para "touchables"
 
 Entrando a comentar código
 
@@ -84,7 +84,7 @@ También he usado variables CSS. Igual que antes: color de fondo y fusión blend
 
 ## Animación mediante @keyframes
 
-He aplicado animación a los span que "siguen" al cursor aplicando <code>@keyframes</code> los atributos color de fond, escalado y blur
+He aplicado animación a los span que "siguen" al cursor aplicando <code>@keyframes</code> a atributos color de fondo, escalado y blur
 
 ```scss
 @keyframes fadeout {
@@ -98,7 +98,7 @@ He aplicado animación a los span que "siguen" al cursor aplicando <code>@keyfra
 
 ## javascript para animaciones blend-mode
 
-Antes de entrar en detalle voy a comentar las funciones JS que he usado como helpers en todo el código. Comentaado en el snippet :)
+Antes de entrar en detalle voy a comentar las funciones JS que he usado como helpers en todo el código. Comentado en el snippet :)
 
 ### Helper functions
 
@@ -228,9 +228,9 @@ const {
 const gui = new GUI();
 ```
 
-La librería permite campos para números, colores, select... en cada caso puede cambiar los parámetros que se pasan, incluso dar nombres (esto no quise personalizarlo, aparecerán los nombres de las variables CSS)
+La librería permite campos para números, colores, select... en cada caso se puede cambiar los parámetros que se pasan, incluso dar nombres (esto no quise personalizarlo, aparecerán los nombres de las variables CSS)
 
-El primer parámetr
+El primer parámetro
 
 ```javascript
 // Al método .add pasamos:
