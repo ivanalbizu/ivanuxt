@@ -6,11 +6,11 @@ tags:
   - javascript
   - webgl
 ctime: "2022-12-05 21:30:00"
-cover_image: slideshow-webgl-curtainsjs.jpg
+cover_image: webgl-swiperjs-curtainsjs.jpg
 alt_image: Integración de SwiperJS con librería curtainsJS
 ---
 
-Hace unos dos años estuve haciendo cosas con WebGL usando la librería <a href="https://www.curtainsjs.com/" target="_blank" rel="noopener">https://www.curtainsjs.com/</a> y hoy vuelvo a retomarlo basándome en una de las entradas: <a href="/blog/webgl-slideshow/" target="_blank" rel="noopener">https://ivanalbizu.eu/blog/webgl-slideshow/</a>. Voy a omitir mucho código ya que muchas cosas son una réplica, haré hincapié en cosas que sean diferentes, todas relacionadas con la integración de la librería <a href="https://swiperjs.com/" target="_blank" rel="noopener">swiperjs</a> y curtainsjs
+Hace unos dos años estuve haciendo cosas con WebGL usando la librería <a href="https://www.curtainsjs.com/" target="_blank" rel="noopener">https://www.curtainsjs.com/</a> y hoy vuelvo a retomarlo basándome en una de las entradas: <a href="/blog/webgl-slideshow/">WebGL Slideshow</a>. Voy a omitir mucho código ya que muchas cosas son una réplica, haré hincapié en cosas que sean diferentes, todas relacionadas con la integración de la librería <a href="https://swiperjs.com/" target="_blank" rel="noopener">swiperjs</a> y curtainsjs
 
 ## HTML para canvas WebGL
 
