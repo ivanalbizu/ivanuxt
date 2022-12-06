@@ -172,5 +172,3 @@ case 1://add existent workers
 ```
 
 El programa contiene más clases, pero algunas son obvias y otras son similares a las que he comentado. No son difíciles de entender.
-
-Puedes descargar el código para probarlo en el siguiente enlace <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjcGNfRUswVE53a00" target="_blank">descargar ejemplo programa colecciones API Java</a>

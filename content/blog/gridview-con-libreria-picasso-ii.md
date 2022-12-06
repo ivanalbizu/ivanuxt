@@ -245,5 +245,3 @@ Vídeo del proyecto:
 <div class="ratio-16-9">
     <iframe title="GridView Android con librería Picaso" type="text/html" src="http://www.youtube.com/embed/KRIBZyP1hd8?autoplay=0&origin=https://ivanalbizu.eu/" frameborder="0"></iframe>
 </div>
-
-Descargar el código completo <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjOWc5ekxRWS01bjQ" target="_blank">GridView con Picasso de galería del móvil</a>

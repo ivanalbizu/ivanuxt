@@ -215,9 +215,7 @@ public class MainActivity extends ListActivity {
 }
 ```
 
-Se puede descargar el <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjVUhvSFhMalVfYms" target="_blank">código completo de ListView en Android con ArrayAdapter</a>
-
-Y aquí un vídeo de todo el proceso:
+Aquí un vídeo de todo el proceso:
 
 <div class="ratio-16-9">
     <iframe title="ListView en Android con ArrayAdapter" type="text/html" src="http://www.youtube.com/embed/WkysUx43Tr4?autoplay=0&origin=https://ivanalbizu.eu/" frameborder="0"></iframe>

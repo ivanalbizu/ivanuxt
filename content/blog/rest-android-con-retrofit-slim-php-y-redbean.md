@@ -389,5 +389,3 @@ public class EditUserActivity extends Activity {
 	}
 }
 ```
-
-El código completo de [REST API Android](https://drive.google.com/open?id=0BzQS5pOyF_HjbVVqamNCTUNoRG8 "Rest API retrofit, Slim, RedBean")

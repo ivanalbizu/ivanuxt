@@ -311,5 +311,3 @@ La clase más interesante de todas es la llamada <code>Gestion.java</code>, en e
 	<li>El método <code>void eliminarAlumno(...)</code> captura el objeto devuelto por <code>Alumno obtenerAlumno(...)</code> y lo elimina con el método propio <code>remove(...)</code> de <code>ArrayList</code></li>
 	<li>El último método, <code>void modificarAlumno(...)</code> recibe los métodos <code>Alumno obtenerAlumno(...)</code> para operar sobre él (modificarlo) y el método <code>int menuEditar()</code> para realizar la operación seleccionada por el usuario, en este caso son: editar nombre, apellidos y edad. Las modificaciones se llevan a cabo mediante los <code>set</code> adecuados dentro del archivo <code>Alumno.java</code>.</li>
 </ul>
-
-Puedes descargar el código para probarlo en el siguiente enlace <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjSFFtWldxQlQ5OFE" target="_blank">descargar programa Java gestionar Alumnos</a>

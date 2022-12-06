@@ -143,5 +143,3 @@ He creado un vídeo en el que realizo este ejemplo de Spinner enlazados en Andro
 <div class="ratio-16-9">
 	<iframe title="Spinner enlazados en Android" type="text/html" src="http://www.youtube.com/embed/AtuZoSpbypI?autoplay=0&origin=https://ivanalbizu.eu/" frameborder="0"></iframe>
 </div>
-
-Para descargar el código completo <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjSElVSTZuZlEzR00" target="_blank">Spinner enlazados en Android</a>

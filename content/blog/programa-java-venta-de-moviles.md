@@ -359,5 +359,3 @@ El método comprar móvil <code>double comprarMovil(...)</code> recibe los mismo
 El método ver ganancias <code>void verGanancias(...)</code> recibe como parámetros el array de móviles y un número introducido por el usuario para seleccionar un móvil. Se comprueba que el móvil esté vendido y luego se obtienen dos datos, el precio y su beneficio y se multiplican, mostrando por pantalla su resultado.
 
 El método cerrarCaja <code>void cerrarCaja(...)</code> recibe como parámetro el array de teléfonos, que es recorrido entero y guardado en la variable <code>gananciasDia</code> para aquellos móviles que fueron vendidos.
-
-Puedes descargar el código para probarlo en el siguiente enlace <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjMDdUdXRwTDhZZ0U" target="_blank">Descargar programa java venta móviles</a>

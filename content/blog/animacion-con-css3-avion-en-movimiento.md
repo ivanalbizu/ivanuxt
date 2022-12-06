@@ -170,5 +170,3 @@ function cambiar_velocidad() {
 	document.getElementById("paisaje2").style.webkitAnimation="paisaje2 "+j+" infinite linear";
 }
 ```
-
-Si quieres puedes descargar la animación pulsando en el enlace <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjbzZoY3U1eDJNMTQ" target="_blank">animación css3 y javascript</a>

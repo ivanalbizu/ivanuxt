@@ -335,6 +335,3 @@ En este vídeo explico el código:
 <div class="ratio-16-9">
     <iframe title="Programa ehemplo crear tienda en Java" type="text/html" src="http://www.youtube.com/embed/FqQSwOSC830?autoplay=0&origin=https://ivanalbizu.eu/" frameborder="0"></iframe>
 </div>
-
-
-Aquí dejo el <a href="https://drive.google.com/open?id=0BzQS5pOyF_HjTGpjdnRzQnlfeDA" target="_blank">código para descargar Programa de tienda en java</a>
