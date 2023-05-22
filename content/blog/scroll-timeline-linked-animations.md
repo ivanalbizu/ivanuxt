@@ -10,6 +10,10 @@ cover_image: scroll-timeline-linked-animations.jpg
 alt_image: Scroll timeline linked animations
 ---
 
+***IMPORTANTE: La especificación Scroll-Linked Animations y su sintaxis propuesta han sufrido una reescritura importante. Esta entrada utiliza una versión anterior de la sintaxis y no se ha actualizado para reflejar estos cambios.***
+
+👉 Para obtener una la nueva especificación y sintaxis recomiendo visitar esta publicación de Bramus Van Damme: <a href="https://scroll-driven-animations.style/demos/image-reveal/css/" target="_blank">https://scroll-driven-animations.style/demos/image-reveal/css/</a>
+
 Ejemplo simple sobre uso de nueva media de CSS llamada <code>@scroll-timeline</code>. Actualmente, 31/01/2022, todavía no está soportado por los navegadores. Para poder verlo en Chrome, con versión superior a 89, hay que habilitar las flags experimentales: "Experimental Web Platform Features" <code>chrome://flags/#enable-experimental-web-platform-features</code>
 
 Enlace a <a href="https://caniuse.com/css-scroll-timeline" target="_blank" rel="noopener">caniuse.com</a>
